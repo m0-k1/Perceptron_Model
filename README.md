@@ -1,6 +1,8 @@
 # Perceptron-Model
 Understanding the simplest Perceptron Model
-DESCRIPTION
+
+# DESCRIPTION
+
 Urine specimens were analyzed in an effort to determine if certain physical characteristics of the urine might be related to the formation of calcium oxalate crystals.
 
 This data frame contains the following columns:
@@ -19,8 +21,6 @@ urea - The urea concentration in millimoles per litre.
 
 calc - The calcium concentration in millimoles per litre.
 
-Source
-The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Collection of Problems from Many Fields for the Student and Research Worker. Springer-Verlag.
+Source - The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Collection of Problems from Many Fields for the    Student and Research Worker. Springer-Verlag.
 
-References
-Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.
+References - Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.
