@@ -24,3 +24,5 @@ calc - The calcium concentration in millimoles per litre.
 Source - The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Collection of Problems from Many Fields for the    Student and Research Worker. Springer-Verlag.
 
 References - Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.
+
+Any kind of Insights from you are highly aprreciated.
