@@ -24,4 +24,4 @@ Source - The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Dat
 
 References - Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.
 
-### Any kind of Insights or corrections from you are highly appreciated.
+### Any kind of Insights or corrections from you are highly appreciated
