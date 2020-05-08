@@ -1,4 +1,4 @@
-# Perceptron-Model
+# Perceptron Model
 Understanding the simplest Perceptron Model
 
 #### DESCRIPTION
