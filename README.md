@@ -1,5 +1,5 @@
 # Perceptron Model
-Understanding the simplest Perceptron Model
+Understanding the simplest Perceptron Model.
 
 #### DESCRIPTION
 Urine specimens were analyzed in an effort to determine if certain physical characteristics of the urine might be related to the formation of calcium oxalate crystals.
