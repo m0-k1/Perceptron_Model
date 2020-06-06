@@ -23,6 +23,6 @@ References - Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their 
 
 The perceptron model, proposed by Minsky-Papert, is a more general computational model than McCulloch-Pitts neuron. It overcomes some of the limitations of the M-P neuron by introducing the concept of numerical weights (a measure of importance) for inputs, and a mechanism for learning those weights. Inputs are no longer limited to boolean values like in the case of an M-P neuron, it supports real inputs as well which makes it more useful and generalized.
 
-![](image.png)
+![](image2.png)
 
 #### Any kind of Insights or corrections from you are highly appreciated.
