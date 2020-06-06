@@ -25,4 +25,8 @@ The perceptron model, proposed by Minsky-Papert, is a more general computational
 
 ![](image2.png)
 
+In this repository we are going to make our perceptron Model from scratch and then use it to determine the presence of calcium oxalate crystals in the given urine sample.
+
+Accuracy of 83% was acheived using this model.
+
 #### Any kind of Insights or corrections from you are highly appreciated.
