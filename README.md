@@ -23,7 +23,7 @@ This data frame contains the following columns:
 
 >The perceptron model, proposed by Minsky-Papert, is a more general computational model than McCulloch-Pitts neuron. It overcomes some of the limitations of the M-P neuron by introducing the concept of numerical weights (a measure of importance) for inputs, and a mechanism for learning those weights. Inputs are no longer limited to boolean values like in the case of an M-P neuron, it supports real inputs as well which makes it more useful and generalized.
 
-![](image2.png)
+![](images/image2.png)
 
 In this repository we are going to make our perceptron Model from scratch and then use it to determine the presence of calcium oxalate crystals in the given urine sample.
 
