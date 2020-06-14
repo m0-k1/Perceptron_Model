@@ -1,5 +1,5 @@
 # Perceptron Model
-Understanding the simplest Perceptron Model.
+Modelling the perceptron model from scratch.
 
 ### DESCRIPTION
 #### About Dataset
