@@ -1,5 +1,5 @@
 # Perceptron Model
-Modelling the perceptron model from scratch
+Modelling the perceptron model from scratch.
 
 ### DESCRIPTION
 #### About Dataset
