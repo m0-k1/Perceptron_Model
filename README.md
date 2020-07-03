@@ -27,4 +27,4 @@ This data frame contains the following columns:
 
 In this repository we are going to make our perceptron Model from scratch and then use it to determine the presence of calcium oxalate crystals in the given urine sample.
 
->Accuracy of 83% was acheived using this model
+>Accuracy of 83% was acheived using this model.
