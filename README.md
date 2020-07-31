@@ -1,6 +1,5 @@
-<img src="https://github.com/favicon.ico" width="48">
-
 # Perceptron Model
+
 Modelling the perceptron model from scratch.
 
 ### DESCRIPTION
